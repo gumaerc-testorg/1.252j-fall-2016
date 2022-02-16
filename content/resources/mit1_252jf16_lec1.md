@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-252j-urban-transportation-planning-fall-2016/a494371ff860d852b834db31c3bc8816_MIT1_252JF16_Lec1.pdf
+file: /media/courses/1-252j-urban-transportation-planning-fall-2016/a494371ff860d852b834db31c3bc8816_MIT1_252JF16_Lec1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Slides
+parent_type: CourseSection
 resourcetype: Document
 title: MIT1_252JF16_Lec1
 uid: a494371f-f860-d852-b834-db31c3bc8816

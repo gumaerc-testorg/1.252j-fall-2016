@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-252j-urban-transportation-planning-fall-2016/b2a3204196dd01ac9441c67795d4e9d9_Assignment2Map.jpg
+file: /media/courses/1-252j-urban-transportation-planning-fall-2016/b2a3204196dd01ac9441c67795d4e9d9_Assignment2Map.jpg
 file_type: image/jpeg
 image_metadata:
   caption: A map of Central Square, Cambridge, with key intersections along Mass.
@@ -9,6 +9,11 @@ image_metadata:
   credit: "Map courtesy of Google \u2122."
   image-alt: A map of Central Square in Cambridge, MA. Key intersections are highlighted
     with blue circles.
+learning_resource_types:
+- Assignments
+ocw_type: OCWImage
+parent_title: Assignment 2
+parent_type: CourseSection
 resourcetype: Image
 title: Assignment2Map.jpg
 uid: b2a32041-96dd-01ac-9441-c67795d4e9d9
