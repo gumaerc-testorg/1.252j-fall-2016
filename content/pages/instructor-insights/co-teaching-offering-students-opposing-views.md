@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'In this section, Frederick Salvucci discusses one of the main benefits
+  of co-teaching: offering students different points of view and different approaches
+  to urban transportation planning.'
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

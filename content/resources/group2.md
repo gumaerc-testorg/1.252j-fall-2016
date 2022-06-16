@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-252j-urban-transportation-planning-fall-2016/6158b303d7007dcc9b92cb27e33aa0c3_Group2.JPG
+file: /courses/1-252j-urban-transportation-planning-fall-2016/6158b303d7007dcc9b92cb27e33aa0c3_Group2.JPG
 file_type: image/jpeg
 image_metadata:
   caption: 'Group 2: Mass Ave at Main St and Sidney St, Mass Ave at Brookline St.'
@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Assignment 1
 parent_type: CourseSection
+parent_uid: 6e5b8372-4f5e-28b4-a1b4-d75c7fb5687b
 resourcetype: Image
 title: Group2.JPG
 uid: 6158b303-d700-7dcc-9b92-cb27e33aa0c3

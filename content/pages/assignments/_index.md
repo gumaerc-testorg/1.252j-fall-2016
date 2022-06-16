@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains information about the assignments for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -20,19 +21,19 @@ Please submit a short half-page document about yourself, so that the instructors
 Assignment 1
 ------------
 
-[Counting and Observing at Key Intersections]({{< baseurl >}}/pages/assignments/assignment-1)
+{{% resource_link 6e5b8372-4f5e-28b4-a1b4-d75c7fb5687b "Counting and Observing at Key Intersections" %}}
 
 Assignment 2
 ------------
 
-[Re-Designing Massachusetts Avenue]({{< baseurl >}}/pages/assignments/assignment-2)
+{{% resource_link 5a82cbe4-3dab-4a1e-6507-a4ef6fb48521 "Re-Designing Massachusetts Avenue" %}}
 
 Assignment 3
 ------------
 
-[Assessing the Impacts of Growth in the Lower Mystic]({{< baseurl >}}/pages/assignments/assignment-3)
+{{% resource_link f8bf12b3-b367-7a42-7fc8-1bed54b954d5 "Assessing the Impacts of Growth in the Lower Mystic" %}}
 
 Assignment 4
 ------------
 
-[Planning for Growth in the Lower Mystic]({{< baseurl >}}/pages/assignments/assignment-4)
+{{% resource_link 589ab6f9-1d13-f93b-2efa-2d73e8e418f4 "Planning for Growth in the Lower Mystic" %}}
