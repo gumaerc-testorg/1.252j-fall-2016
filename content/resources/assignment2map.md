@@ -11,6 +11,7 @@ image_metadata:
     with blue circles.
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Assignment 2
 parent_type: CourseSection

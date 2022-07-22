@@ -5,6 +5,7 @@ file: /courses/1-252j-urban-transportation-planning-fall-2016/471d2af3ae7633e901
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection

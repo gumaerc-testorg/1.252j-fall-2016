@@ -10,6 +10,7 @@ image_metadata:
   image-alt: A photo of a brick church, with a line of cars in the foreground.
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Assignments
 parent_type: CourseSection

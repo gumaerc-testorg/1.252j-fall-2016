@@ -9,6 +9,7 @@ image_metadata:
   image-alt: A map of key intersections along Massachusetts Avenue in Cambridge, MA.
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Assignment 1
 parent_type: CourseSection

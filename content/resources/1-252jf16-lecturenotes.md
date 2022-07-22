@@ -10,6 +10,7 @@ image_metadata:
     in the foreground.
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Slides
 parent_type: CourseSection
