@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section includes instructions for completing assignment 2.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: bffe345b-8320-41e7-f22f-2d38ed180667
 title: Assignment 2
 uid: 5a82cbe4-3dab-4a1e-6507-a4ef6fb48521
@@ -19,9 +24,9 @@ For this assignment, you will have access to the counting reports of the teams a
 
 Note that each cross-section and intersection poses unique issues, but that there may be some commonality. Since the same vehicles will need to navigate the entire section, what you propose for your intersection should consider the needs of the rest of the corridor. IN addition to your general arguments, your advisee has asked you to look at a particular intersection in the corridor and make specific recommendations for design and operational changes that demonstrate your holistic approach, particularly regarding improving pedestrian safety and access to adjacent land uses, at one of the following intersections: 1) Mass. Ave. at Prospect St., 2) Mass. Ave. at Sidney St., or 3) Mass. Ave. at Vassar St.
 
-![A map of Massachusetts Avenue in Cambridge, MA, with 3 key intersections highlighted.]({{< resource_file b2a32041-96dd-01ac-9441-c67795d4e9d9 >}})
+{{< resource b2a32041-96dd-01ac-9441-c67795d4e9d9 >}}
 
-[_Download a larger version of the map_]({{< baseurl >}}/resources/assignment2map)
+{{% resource_link b2a32041-96dd-01ac-9441-c67795d4e9d9 "_Download a larger version of the map_" %}}
 
 ### Questions to Address
 
@@ -62,4 +67,4 @@ _Data and Background Material_
 *   Your classmates' counting reports
 *   Red Line and bus ridership for AM peak, midday, PM peak, and evening
 *   [Auto traffic counts](https://data.cambridgema.gov/Traffic-Parking-and-Transportation/Average-Daily-Traffic-Counts-1972-to-2014/v43b-kqeq) from the city of Cambridge
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Central Square Access and Circulation Study (PDF - 4.6MB)](https://www.cambridgema.gov/~/media/Files/CDD/Transportation/transitcommittee/2014/CentrSqBusAccCircStudy.pdf?la=en)
+*   [Central Square Access and Circulation Study (PDF - 4.6MB)](https://www.cambridgema.gov/~/media/Files/CDD/Transportation/transitcommittee/2014/CentrSqBusAccCircStudy.pdf?la=en)

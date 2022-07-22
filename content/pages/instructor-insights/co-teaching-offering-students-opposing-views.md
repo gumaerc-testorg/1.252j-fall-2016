@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: 'In this section, Frederick Salvucci discusses one of the main benefits
+  of co-teaching: offering students different points of view and different approaches
+  to urban transportation planning.'
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: e53c3ff8-af65-09bc-0f16-45111c849df9
 title: 'Co-Teaching: Offering Students Opposing Views'
 uid: 13e96d49-39df-c3b8-e77e-83e1b6bf4c05

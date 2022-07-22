@@ -1,7 +1,14 @@
 ---
 content_type: page
+description: 'In this section, Frederick Salvucci shares the readings in the 1.252J
+  Urban Transportation Planning are shaped by research, and how the work students
+  do in the course, in turn, shape his research agenda. He also discusses how he draws
+  on his own experience working in the field to teach the course.   '
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: e53c3ff8-af65-09bc-0f16-45111c849df9
 title: Drawing from Research and Experience
 uid: d298e8cc-8c49-ca4b-8be0-63f72132d912

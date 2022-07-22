@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section contains information about the first assignment.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: bffe345b-8320-41e7-f22f-2d38ed180667
 title: Assignment 1
 uid: 6e5b8372-4f5e-28b4-a1b4-d75c7fb5687b
@@ -21,13 +26,13 @@ The first assignment is a group assignment, to go out and observe key street cro
 
 This assignment will be done in teams and submitted as group work. You will be divided into teams based on your diversity of skills and backgrounds.
 
-[Group 1: Central Square, Massachusetts Ave. at Prospect St., Massachusetts Ave. at Inman St., and Western Ave. at Franklin St.]({{< baseurl >}}/resources/group1)
+{{% resource_link fd092fc9-d398-0435-8ad3-35a30015574b "Group 1: Central Square, Massachusetts Ave. at Prospect St., Massachusetts Ave. at Inman St., and Western Ave. at Franklin St." %}}
 
-[Group 2: Massachusetts Ave. at Main St. and Sidney St., Massachusetts Ave. at Brookline St.]({{< baseurl >}}/resources/group2)
+{{% resource_link 6158b303-d700-7dcc-9b92-cb27e33aa0c3 "Group 2: Massachusetts Ave. at Main St. and Sidney St., Massachusetts Ave. at Brookline St." %}}
 
-[Group 3: Massachusetts Ave. at Albany St., Massachusetts Ave. at Vassar St., 77 Massachusetts Ave.]({{< baseurl >}}/resources/group3)
+{{% resource_link 1a505c02-9d90-bb42-07ef-bddc7b3728e0 "Group 3: Massachusetts Ave. at Albany St., Massachusetts Ave. at Vassar St., 77 Massachusetts Ave." %}}
 
-[Group 4: Cambridge St. at Prospect St., Hampshire St. at Prospect St., Hampshire St. at Cambridge St.]({{< baseurl >}}/resources/group4)
+{{% resource_link 64725669-4d3d-161e-2c08-03970d9c10c8 "Group 4: Cambridge St. at Prospect St., Hampshire St. at Prospect St., Hampshire St. at Cambridge St." %}}
 
 **Observation and Data Collection**
 

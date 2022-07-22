@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section contains instructions for completing assignment 3.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: bffe345b-8320-41e7-f22f-2d38ed180667
 title: Assignment 3
 uid: f8bf12b3-b367-7a42-7fc8-1bed54b954d5
