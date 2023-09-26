@@ -1,6 +1,7 @@
 ---
 content_type: page
 description: This section contains instructions for completing assignment 3.
+draft: false
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -10,11 +11,9 @@ parent_uid: bffe345b-8320-41e7-f22f-2d38ed180667
 title: Assignment 3
 uid: f8bf12b3-b367-7a42-7fc8-1bed54b954d5
 ---
+## Assessing the Impacts of Growth in the Lower Mystic
 
-Assessing the Impacts of Growth in the Lower Mystic
----------------------------------------------------
-
-What: A 15 page (max) double-spaced memo to the Boston Chief of Streets [Chris Osgood](https://www.boston.gov/departments/transportation/chris-osgood)
+What: A 15 page (max) double-spaced memo to the Boston Chief of Streets Chris Osgood
 
 Who: Groups of 3
 
@@ -38,23 +37,23 @@ Together, your team is to assess the impact of the land use growth projected due
 
 In this assignment, you will be exposed to thinking about regional development and travel demand, and how to plan to accomodate multi-modal access. You are asked to attempt a "little numbers" analysis of the impact of the growth in the area, to the best of your ability with the data available. Each member of your group with be primarily responsible for one of the following questions, but you must coordinate amongst yourselves to have an internally consistent and coherent assessment of the three questions. Given the projected and planned-for jobs and housing growth in the Lower Mystic study area:
 
-1.  What is I-93's basic capacity at different speeds, and how close to capacity is the corridor currently? How much do you estimate traffic will increase on I-93, and what will this do to accessibility?
-2.  How much do you estimate demand will increase on the Orange Line and other transit services in the study area? What are the basic capacity constraints, and how close to capacity is the corridor currently?
-3.  How will increased demand from the surrounding developments impact the Rutherford Avenue corridor and the city of Boston's plans for that area
+1. What is I-93's basic capacity at different speeds, and how close to capacity is the corridor currently? How much do you estimate traffic will increase on I-93, and what will this do to accessibility?
+2. How much do you estimate demand will increase on the Orange Line and other transit services in the study area? What are the basic capacity constraints, and how close to capacity is the corridor currently?
+3. How will increased demand from the surrounding developments impact the Rutherford Avenue corridor and the city of Boston's plans for that area
 
 In addition to these three guiding questions, as a group consider using the following steps of the 19-step process and sub-questions in particular to guide your thinking:
 
-*   Step one: who you are as a group, and your relationship to the relevant actors.
-*   Step two: scan the environment, review history, identify trends, project future conditions.
-    1.  Begin by reviewing the documents recommended to organize the relevant numbers for existing conditions, as well as planned growth (such as new housing units, new jobs, new trips generated, and projected mode-share) for each of the plans in the study area.
-    2.  Evaluate capacity: identify basic capacity constrains and current demand for major transportation infrastructure in the study area, especially the Orange Line, I-93, and the Rutherford Avenue tunnel.
-    3.  Evaluate connectivity given current and future conditions. What does access to jobs via driving look like under current conditions? What about if I-93 were more congested? What does access to jobs look like via public transit? Consider doing a very basic accessibility/isochrones assessment using Google Maps under congested and uncongested conditions, and [CoAXs](http://coaxs.scripts.mit.edu/home/) for transit.
-    4.  Evaluate mode share: assess whether the projected new trips and mode share are compatible with existing infrastructure. What more share would be compatible with existing and planned transportation infrastructure in the area?
-*   Step three: identify relevant actors, primary roles and interests, and culture.
-    1.  What are the goals of the city of Boston with respect to this area? Who is Chris Osgood and what are his interests?
-    2.  Who are the other important stakeholders (including but not limited to, the city of Somerville, city of Everett, and MassDOT), and what are their interests? What are the goals of the various redevelopment efforts?
-*   Steps five and six: Define problems and identify opportunities.
-    1.  From your analysis in step 2, what are the primary transportation problems you see arising, and what are the primary opportunities to address them? What alternatives have been proposed thus far?
-    2.  What would happen if the level of growth predicted transpires, and no investment is made in the area's transportation infrastructure?
+- Step one: who you are as a group, and your relationship to the relevant actors.
+- Step two: scan the environment, review history, identify trends, project future conditions.
+    1. Begin by reviewing the documents recommended to organize the relevant numbers for existing conditions, as well as planned growth (such as new housing units, new jobs, new trips generated, and projected mode-share) for each of the plans in the study area.
+    2. Evaluate capacity: identify basic capacity constrains and current demand for major transportation infrastructure in the study area, especially the Orange Line, I-93, and the Rutherford Avenue tunnel.
+    3. Evaluate connectivity given current and future conditions. What does access to jobs via driving look like under current conditions? What about if I-93 were more congested? What does access to jobs look like via public transit? Consider doing a very basic accessibility/isochrones assessment using Google Maps under congested and uncongested conditions, and [CoAXs](http://coaxs.scripts.mit.edu/home/) for transit.
+    4. Evaluate mode share: assess whether the projected new trips and mode share are compatible with existing infrastructure. What more share would be compatible with existing and planned transportation infrastructure in the area?
+- Step three: identify relevant actors, primary roles and interests, and culture.
+    1. What are the goals of the city of Boston with respect to this area? Who is Chris Osgood and what are his interests?
+    2. Who are the other important stakeholders (including but not limited to, the city of Somerville, city of Everett, and MassDOT), and what are their interests? What are the goals of the various redevelopment efforts?
+- Steps five and six: Define problems and identify opportunities.
+    1. From your analysis in step 2, what are the primary transportation problems you see arising, and what are the primary opportunities to address them? What alternatives have been proposed thus far?
+    2. What would happen if the level of growth predicted transpires, and no investment is made in the area's transportation infrastructure?
 
 The results of your team's analysis will be submitted by week 12 and discussed at recitation week 13.
