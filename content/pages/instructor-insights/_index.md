@@ -29,11 +29,11 @@ I wanted students to learn to think about how to structure a problem related to 
 
 *Below, Frederick Salvucci describes various aspects of how he taught* 1.252J Urban Transportation Planning.
 
-- {{% resource_link c1a47dff-f722-8b6f-fc3f-937641d533ea "Out of the Classroom, Into the City" %}}
-- {{% resource_link eba111e0-96a5-a700-7231-9c36b4260952 "Walking Tours" %}}
-- {{% resource_link c4642a85-5710-46e2-e204-acf1fed44ba2 "Attending Public Meetings" %}}
-- {{% resource_link d298e8cc-8c49-ca4b-8be0-63f72132d912 "Drawing from Research and Experience" %}}
-- {{% resource_link 13e96d49-39df-c3b8-e77e-83e1b6bf4c05 "Co-Teaching: Offering Students Opposing Views" %}}
+- {{% resource_link "c1a47dff-f722-8b6f-fc3f-937641d533ea" "Out of the Classroom, Into the City" %}}
+- {{% resource_link "eba111e0-96a5-a700-7231-9c36b4260952" "Walking Tours" %}}
+- {{% resource_link "c4642a85-5710-46e2-e204-acf1fed44ba2" "Attending Public Meetings" %}}
+- {{% resource_link "d298e8cc-8c49-ca4b-8be0-63f72132d912" "Drawing from Research and Experience" %}}
+- {{% resource_link "13e96d49-39df-c3b8-e77e-83e1b6bf4c05" "Co-Teaching: Offering Students Opposing Views" %}}
 
 ## Curriculum Information
 
@@ -43,7 +43,7 @@ No prerequisites, but permission of the instructor required.
 
 ### Requirements Satisfied
 
-Can be applied toward multiple graduate degrees in [Civil and Environmental Engineering](https://cee.mit.edu/graduate/graduate-degree/) and [Urban Studies and Planning](https://dusp.mit.edu/degrees/doctoral).
+Can be applied toward multiple graduate degrees in [Civil and Environmental Engineering](https://cee.mit.edu/graduate/graduate-degree/) and [Urban Studies and Planning](https://dusp.mit.edu/doctoral).
 
 ### Offered
 
@@ -76,7 +76,7 @@ Mostly graduate students, with a few undergraduates
 ### Breakdown by Major
 
 - 1/2 [Master of Science in Transportation](https://cee.mit.edu/graduate/graduate-degree/) candidates
-- 1/2 [Master in City Planning](https://dusp.mit.edu/degrees/masters) candidates
+- 1/2 [Master in City Planning](https://dusp.mit.edu/masters) candidates
 
 ### Typical Student Background
 
@@ -100,4 +100,4 @@ Met during selected weeks for 2 hours per session; 5 sessions total; attendance 
 
 ### Out of Class
 
-Students completed assignments, went on a {{% resource_link eba111e0-96a5-a700-7231-9c36b4260952 "walking tour" %}}, and attended public meetings, hearings, lectures, and other events throughout the semester.
+Students completed assignments, went on a {{% resource_link "eba111e0-96a5-a700-7231-9c36b4260952" "walking tour" %}}, and attended public meetings, hearings, lectures, and other events throughout the semester.
