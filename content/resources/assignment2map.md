@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-252j-urban-transportation-planning-fall-2016/b2a3204196dd01ac9441c67795d4e9d9_Assignment2Map.jpg
+file_size: 165695
 file_type: image/jpeg
 image_metadata:
   caption: A map of Central Square, Cambridge, with key intersections along Mass.

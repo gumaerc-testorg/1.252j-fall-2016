@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-252j-urban-transportation-planning-fall-2016/fd092fc9d39804358ad335a30015574b_Group1.JPG
+file_size: 47370
 file_type: image/jpeg
 image_metadata:
   caption: 'Group 1: Central Square - Mass Ave at Prospect St, Mass Ave at Inman St,

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-252j-urban-transportation-planning-fall-2016/1a505c029d90bb4207efbddc7b3728e0_Group3.JPG
+file_size: 49211
 file_type: image/jpeg
 image_metadata:
   caption: 'Group 3: Mass Ave at Albany St, Mass Ave at Vassar St, 77 Mass Ave.'

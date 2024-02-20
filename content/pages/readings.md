@@ -68,8 +68,6 @@ Salvucci, Frederick P. "Some Observations on the Recent 25-year History of the M
 
 "[Moving Forward: Transportation and the Massachusetts Economy](http://www.edrgroup.com/library/multi-modal/trans-and-mass-economy.html)." White paper for Our Transportation Future, prepared by Economic Development Research Group, Inc.
 
-Campbell, Robert. "[The Beautiful Triumph of Tent City (PDF)](http://www.goodyclancy.com/wp-content/uploads/2014/05/Tent-City_Boston-Globe.pdf)." *The Boston Globe.* 23 Aug. 1988.
-
 **Supplementary Reading**
 
 Lupo, Alan, Frank Colcord, and Edmund P. Fowler. *Rites of Way: The Politics of Transportation in Boston and the U.S. City*. Little Brown & Co. 1971. ISBN: 9780316536707.
@@ -299,7 +297,5 @@ Yang, Christopher, David McCollum, Ryan McCarthy, and Wayne Leighty. "[Meeting a
 Heywood, John. Speech in "[Energy for a Rapidly Evolving World](http://techtv.mit.edu/videos/16448-energy-for-a-rapidly-evolving-world)." 33:28-47:07. MIT TechTV. May 2006.
 
 DiMambro, Antonio. "[Boston's Next Urban Frontier: Opportunities and Challenges for Infrastructure Development](https://vimeo.com/76051073)." Lecture at Boston Architectural College, August 13, 2013.
-
-California Air Pollution Control Officers Association. "[Quantifying Greenhouse Gas Mitigation Measures (PDF-7.5MB)](http://www.capcoa.org/wp-content/uploads/2010/11/CAPCOA-Quantification-Report-9-14-Final.pdf)." Retrieved April 28 (2010): 2011.
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
