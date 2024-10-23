@@ -22,7 +22,7 @@ No readings
 
 **Required Readings**
 
-Kenworthy, Jeffrey R., and Felix B. Laube. [Patterns of Automobile Dependence in Cities: An International Overview of Key Physical and Economic Dimensions with Some Implications for Urban Policy."](http://dx.doi.org/10.1016/S0965-8564(99)00006-3) *Transportation Research Part A: Policy and Practice* 33, no. 7 (1999): 691-723.
+Kenworthy, Jeffrey R., and Felix B. Laube. [Patterns of Automobile Dependence in Cities: An International Overview of Key Physical and Economic Dimensions with Some Implications for Urban Policy."](http://dx.doi.org/10.1016/S0965-8564%2899%2900006-3) *Transportation Research Part A: Policy and Practice* 33, no. 7 (1999): 691-723.
 
 Chapter 2: "City-Transportation Relationship" in Vuchic, Vukan R. *Transportation for Livable Cities*. 1999. ISBN: 9780882851617.
 
@@ -80,9 +80,9 @@ Lupo, Alan, Frank Colcord, and Edmund P. Fowler. *Rites of Way: The Politics of 
 
 Taylor, Brian D. "The Geography of Urban Transportation Finance" in Hanson, Susan, and Genevieve Giuliano, eds. *The Geography of Urban Transportation.* Guilford Press, 2004. ISBN: 9781593850555.
 
-Banister, David, and Yossi Berechman. "[Transport Investment and the Promotion of Economic Growth.](http://dx.doi.org/10.1016/S0966-6923(01)00013-8)" *Journal of Transport Geography* 9, no. 3 (2001): 209-218.
+Banister, David, and Yossi Berechman. "[Transport Investment and the Promotion of Economic Growth.](http://dx.doi.org/10.1016/S0966-6923%2801%2900013-8)" *Journal of Transport Geography* 9, no. 3 (2001): 209-218.
 
-Downs, Thomas M. "[Is There a Future for the Federal Surface Transportation Program?](http://dx.doi.org/10.1061/(ASCE)0733-947X(2005)131:6(393)#sthash.t5OGT5X5.dpuf)" *Journal of Transportation Engineering* 131, no. 6 (2005): 393-396. (Originally presented at the Annual Convention of the American Society of Civil Engineers, October 16, 2004 in Baltimore, Maryland)
+Downs, Thomas M. "[Is There a Future for the Federal Surface Transportation Program?](http://dx.doi.org/10.1061/%28ASCE%290733-947X%282005)131:6(393)#sthash.t5OGT5X5.dpuf)" *Journal of Transportation Engineering* 131, no. 6 (2005): 393-396. (Originally presented at the Annual Convention of the American Society of Civil Engineers, October 16, 2004 in Baltimore, Maryland)
 
 Wachs, Martin. "[Local Option Transportation Taxes: Devolution As Revolution](http://www.accessmagazine.org/articles/spring-2003/local-option-transportation-taxes-devolution-revolution/)." *ACCESS Magazine* 1, no. 22 (2003).
 
@@ -110,7 +110,7 @@ Baker, Billy. "[The Future of Crossing the Street](http://archive.boston.com/bos
 
 Swope, Christopher. "[Rethinking the Urban Speedway](http://www.governing.com/topics/transportation-infrastructure/Rethinking-The-Urban-Speedway.html)." *Governing Magazine*. October 2005.
 
-Powers, Martine. "[A Cyclist's Mecca, with Lessons for Boston](http://www.sustainability.org.il/home/bike-news/A-cyclists-mecca-with-lessons-for-Boston-0913)." *The Boston Globe.* Sept. 22, 2013.
+Powers, Martine. "A Cyclist's Mecca, with Lessons for Boston." *The Boston Globe.* Sept. 22, 2013.
 
 Cairns, Sally, Stephen Atkins, and Phil Goodwin. "[Disappearing Traffic? The Story So Far](http://dx.doi.org/10.1680/muen.2002.151.1.13)." *Proceedings of the Institution of Civil Engineers-Municipal Engineer*, vol. 151, no. 1, pp. 13-22. London: Published for the Institution of Civil Engineers by Thomas Telford Services, c1992-, 2002.
 
@@ -284,7 +284,7 @@ Chapter 6 (section 6.0-6.2) in Meyer, Michael and Eric Miller. *Urban Transporta
 
 Wald, Matthew L. "[Travel Habits Must Change to Make a Big Difference in Energy Consumption](http://www.nytimes.com/2006/12/30/business/30diet.html)." *The New York Times*. December 30, 2006.
 
-Marshall, Stephen, and David Banister. "[Travel Reduction Strategies: Itentions and Outcomes](https://doi.org/10.1016/S0965-8564(99)00034-8)." *Transportation Research Part A: Policy and Practice* 34, no. 5 (2000): 321-338.
+Marshall, Stephen, and David Banister. "[Travel Reduction Strategies: Itentions and Outcomes](https://doi.org/10.1016/S0965-8564%2899%2900034-8)." *Transportation Research Part A: Policy and Practice* 34, no. 5 (2000): 321-338.
 
 Banister, David. "Reducing CO2 by 60% in 2030: The Impossible Challenge for Transport?" Presented at the 11th World Conference on Transport Research, Berkeley, CA, June 2007.
 
