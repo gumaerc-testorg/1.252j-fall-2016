@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/1-252j-urban-transportation-planning-fall-2016/a494371ff860d852b834db31c3bc8816_MIT1_252JF16_Lec1.pdf
+file: /courses/1-252j-urban-transportation-planning-fall-2016/a494371ff860d852b834db31c3bc8816_MIT1_252JF16_Lec1.pdf
 file_size: 405984
 file_type: application/pdf
 learning_resource_types:
