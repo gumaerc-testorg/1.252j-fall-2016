@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/1-252j-urban-transportation-planning-fall-2016/647256694d3d161e2c0803970d9c10c8_Group4.JPG
+file: /courses/1-252j-urban-transportation-planning-fall-2016/647256694d3d161e2c0803970d9c10c8_Group4.JPG
 file_size: 48241
 file_type: image/jpeg
 image_metadata:

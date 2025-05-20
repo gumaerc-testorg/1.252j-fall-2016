@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/1-252j-urban-transportation-planning-fall-2016/2322d36ca38972f810333456bee6e944_big_dig-compressor.jpg
+file: /courses/1-252j-urban-transportation-planning-fall-2016/2322d36ca38972f810333456bee6e944_big_dig-compressor.jpg
 file_size: 91865
 file_type: image/jpeg
 image_metadata:

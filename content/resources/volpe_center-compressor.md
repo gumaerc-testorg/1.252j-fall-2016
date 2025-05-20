@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/1-252j-urban-transportation-planning-fall-2016/b0627275f29640494226f5390656f2f1_Volpe_center-compressor.jpg
+file: /courses/1-252j-urban-transportation-planning-fall-2016/b0627275f29640494226f5390656f2f1_Volpe_center-compressor.jpg
 file_size: 108573
 file_type: image/jpeg
 image_metadata:
