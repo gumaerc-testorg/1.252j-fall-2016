@@ -46,16 +46,16 @@ Your individual recommendation is due week 14.
 
 ### Background Resources
 
-[Lower Mystic Regional Working Group](http://lowermysticstudy.mapc.org/downloads/)
+{{% resource_link "515b2e8e-f949-43b1-96b1-2777f960b157" "Lower Mystic Regional Working Group" %}}
 
-[City of Boston Sullivan Square/Rutherford redevelopment plans](https://www.boston.gov/departments/transportation/rutherford-avenue-sullivan-square-design-project)
+{{% resource_link "d239334b-9fc4-4c9a-8167-bc68a42a11be" "City of Boston Sullivan Square/Rutherford redevelopment plans" %}}
 
-[Inner Belt/Brickbottom plans (Somerville)](https://www.somervillebydesign.com/neighborhood-planning/inner-belt-brickbottom/)
+{{% resource_link "20b3f1b2-4535-41e9-9957-8f058e1267c6" "Inner Belt/Brickbottom plans (Somerville)" %}}
 
-[Wynn Everett SSFEIR (PDF - 1.2MB)](http://www.reverejournal.com/wp-content/uploads/2015/09/WynnCasinoMEPACertificateLetterAgu.-2015.pdf)
+{{% resource_link "97911311-049a-45fd-aa68-88296846a9af" "Wynn Everett SSFEIR (PDF - 1.2MB)" %}}
 
-Orange Line -  [Focus 40 Orange Line upgrades](https://static1.squarespace.com/static/57757a3cff7c50f318d8aae0/t/5804dde39de4bbffc41d7a61/1476713955792/Upcoming+Service+Improvements_accessible.pdf)
+Orange Line -  {{% resource_link "549f88b5-f1f0-461a-b3f4-f1f46458ae7a" "Focus 40 Orange Line upgrades" %}}
 
-[Katie McLaughlin's thesis](http://hdl.handle.net/1721.1/104153)
+{{% resource_link "6b3005bc-2f1c-43f2-94fd-dcecf185512d" "Katie McLaughlin's thesis" %}}
 
-[MassDOT Everett Transit Action Plan](https://www.mass.gov/doc/everett-transit-action-plan-final-report/download#:~:text=The%20Everett%20Transit%20Action%20Plan,study%20by%20other%20planning%20processes.)
+{{% resource_link "1c34857f-4756-4988-a594-0bc380c70ec1" "MassDOT Everett Transit Action Plan" %}}
