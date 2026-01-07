@@ -43,7 +43,7 @@ No prerequisites, but permission of the instructor required.
 
 ### Requirements Satisfied
 
-Can be applied toward multiple graduate degrees in {{% resource_link "514c0e05-e29e-4e2d-9f77-c7ca7c669b97" "Civil and Environmental Engineering" %}} and {{% resource_link "0a2f8519-8dea-4d48-8a82-de891ecc9d25" "Urban Studies and Planning" %}}.
+Can be applied toward multiple graduate degrees in [Civil and Environmental Engineering](https://cee.mit.edu/graduate/graduate-degree/) and [Urban Studies and Planning](https://dusp.mit.edu/doctoral).
 
 ### Offered
 
@@ -75,8 +75,8 @@ Mostly graduate students, with a few undergraduates
 
 ### Breakdown by Major
 
-- 1/2 {{% resource_link "514c0e05-e29e-4e2d-9f77-c7ca7c669b97" "Master of Science in Transportation" %}} candidates
-- 1/2 {{% resource_link "fc9dfd03-11ee-431f-8ce5-055168105414" "Master in City Planning" %}} candidates
+- 1/2 [Master of Science in Transportation](https://cee.mit.edu/graduate/graduate-degree/) candidates
+- 1/2 [Master in City Planning](https://dusp.mit.edu/masters) candidates
 
 ### Typical Student Background
 
