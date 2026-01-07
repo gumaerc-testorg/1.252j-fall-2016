@@ -43,7 +43,7 @@ Your assignment is to propose solutions for a re-design of Massachusetts Avenue 
     - With what types of interventions do you recommend (including, for example, bike lanes, separated bike lanes, bus lanes, sidewalk bumpouts, re-routing certain modes to parallel streets, etc.)?
     - Do you have recommendations with respect to where left turns should be allowed/prohibited, locations of taxi stands and loading zones, and what should happen to parking?
     - Do you have any recommendations with respect to how the signals should be timed, or allocated to different users?
-    - Feel free to use {{% resource_link "61ed9d87-6ae1-4a4e-98fe-b32029611671" "Streetmix" %}}, a hand drawing, or other software to communicate your ideas - as well as the resources listed below for ideas of interventions
+    - Feel free to use [Streetmix](http://streetmix.net/-/491042), a hand drawing, or other software to communicate your ideas - as well as the resources listed below for ideas of interventions
 - What are the likely impacts - positive and negative - of your proposed design? For what time periods and modes does it work best - and worst?
 - Who are the constituencies that your design will impact, positively and negatively, and how does your design address their potential concerns?
 
@@ -53,17 +53,17 @@ Your assignment is to propose solutions for a re-design of Massachusetts Avenue 
 
 *Street Design Resources:* These are great resources for getting ideas and guidance for ways to allocate street space, the ideal widths of different elements, and some throughput numbers.
 
-- {{% resource_link "3a4f3b8b-fdf5-4ac3-9822-e7fc73231593" "NACTO Urban Street Design" %}}
-- {{% resource_link "026dfc4d-1ad6-4aa7-8706-d8709b2a7835" "Boston's Complete Streets Guidelines" %}}
-- {{% resource_link "0bf8d648-26cb-409d-872a-3033cc4938a1" "Urb-I Street Design" %}} "Before-After" Photos
-- {{% resource_link "11bfb51a-5826-42eb-aa59-95a6d755ca57" "ITE Traffic Calming Library" %}}
-- {{% resource_link "27c0f59a-22e4-4f00-a4d6-c65b5f2c3ed9" "HCM 2010: Highway Capacity Manual" %}}
-- {{% resource_link "3d7b84eb-c407-4081-b5c8-7ad293c064e4" "Transit Capacity and Quality of Service Manual" %}}
+- [NACTO Urban Street Design](http://nacto.org/publication/urban-street-design-guide/)
+- [Boston's Complete Streets Guidelines](http://bostoncompletestreets.org/)
+- [Urb-I Street Design](http://www.urb-i.com/before-after-favourites) "Before-After" Photos
+- [ITE Traffic Calming Library](https://www.ite.org/technical-resources/traffic-calming/)
+- [HCM 2010: Highway Capacity Manual](http://www.trb.org/Main/Blurbs/175169.aspx)
+- [Transit Capacity and Quality of Service Manual](http://www.trb.org/Publications/Blurbs/169437.aspx)
 - Google Earth can be used for measuring curb-to-curb distances if needed
 
 *Data and Background Material*
 
 - Your classmates' counting reports
 - Red Line and bus ridership for AM peak, midday, PM peak, and evening
-- {{% resource_link "f7a57c48-7101-4764-89ad-7d794baca676" "Auto traffic counts" %}} from the city of Cambridge
-- {{% resource_link "6dfb32f4-69b4-41fc-82c7-c58418c2809b" "Central Square Access and Circulation Study (PDF - 4.6MB)" %}}
+- [Auto traffic counts](https://data.cambridgema.gov/Traffic-Parking-and-Transportation/Average-Daily-Traffic-Counts-1972-to-2014/v43b-kqeq) from the city of Cambridge
+- [Central Square Access and Circulation Study (PDF - 4.6MB)](https://www.cambridgema.gov/CDD/Projects/Transportation/centralsquarebusaccessandcirculationstudy)
