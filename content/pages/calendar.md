@@ -108,7 +108,7 @@ Assignment 1 due
 *   Role of government, annual appropriations, capital investment
 *   The "peanut butter principle", i.e. pork barrel
 
-_Recitation: Assignment 1 presentations (with special guest {{% resource_link "635a4100-a049-4f90-860a-98982f9c91f1" "Joe Barr" %}}, Director of Traffic, Parking and Transportation for the City of Cambridge)_
+_Recitation: Assignment 1 presentations (with special guest [Joe Barr](https://www.cambridgema.gov/traffic/engineeringplanning), Director of Traffic, Parking and Transportation for the City of Cambridge)_
 
 
 {{< tdclose >}}
@@ -194,7 +194,7 @@ _No recitation_
 {{< tdopen >}}
 **No class**
 
-_Recitation: Watch _{{% resource_link "aa186a8c-6ab6-4ead-89d5-6b9d82373de1" "Great Projects: The Big Dig" %}}_ from PBS_
+_Recitation: Watch _[Great Projects: The Big Dig](http://www.pbs.org/greatprojects/about/bigdig.html)_ from PBS_
 
 
 {{< tdclose >}}
